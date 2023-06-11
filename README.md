@@ -1,3 +1,5 @@
+[![Codemagic build status](https://api.codemagic.io/apps/6485e3889d22ec28720f1e35/6485e3889d22ec28720f1e34/status_badge.svg)](https://codemagic.io/apps/6485e3889d22ec28720f1e35/6485e3889d22ec28720f1e34/latest_build)
+
 # tests_codemagic
 
 A Flutter project to test Codemagic.
